@@ -1,8 +1,8 @@
 Programa para ler planilhas Excel
 
 Objetivo: 
-  - Ler 12 arquivos Excel, onde cada um corresponde a um mes de trabalho da profissional Hanna, e retornar a quantidade de horas extras 
-  trabalhas pela profssional por mes. Considerando que um expediente de trabalho possui 8:00 Horas.
+  - Ler 6 arquivos Excel, onde cada um corresponde a um mes de trabalho da profissional Hanna, e retornar a quantidade de horas extras 
+  trabalhas pela profssional por mes. Considerando que horas extras são consideradas acima de 8 horas no dia.
 
 Passo a passo
   01. Abrir os arquivos Excel
@@ -13,3 +13,5 @@ Passo a passo
 Bibliotecas Utilizadas
   - Pandas
     pip install pandas
+  - Openpyxl
+    pip install openpyxl
